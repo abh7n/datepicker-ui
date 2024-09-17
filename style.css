@@ -1,0 +1,30 @@
+
+.box1 {
+  display: flex;
+  flex-direction: row;
+ 
+}
+
+.calendar {
+  width: 220px;
+}
+
+.img1 {
+  width: 20;
+  height: 20px;
+  border: 1px black solid;
+}
+
+.box2 {
+  border: 1px black solid;
+  width: 250px;
+  height: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.week {
+  word-spacing: 22px;
+}
+
