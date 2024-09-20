@@ -17,3 +17,7 @@ A lightweight, responsive, and customizable datepicker UI built using HTML and C
 - Mozilla Firefox
 - Microsoft Edge
 
+
+*Version History*
+
+- v1.0.0 - Initial release
