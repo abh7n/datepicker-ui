@@ -1,5 +1,8 @@
 # Datepicker UI
 
+![Image description](datepicker-ui.png)
+
+
 A lightweight, responsive, and customizable datepicker UI built using HTML and CSS.
 
 
